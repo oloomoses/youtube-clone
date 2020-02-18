@@ -1,17 +1,29 @@
-# youtube-clone
+# Youtube-clone
+
+## Description
+
 This is a youtube clone project done by Oloo and Opeyemi.
 
-To have this project in your local machine run:
-git clone https://github.com/oloomoses/youtube-clone.git
 
-Built With
-Html 
-CSS
+## Local copy
+**To have this project in your local machine run:**
 
-Authors
-Name:Opeyemi Oyelesi
-Github: @AdedayoOpeyemi
+**git clone https://github.com/oloomoses/youtube-clone.git**
 
-Name: Oloo Moses
-Github: @olooine
-Twitter: @twitterhandle
+## Built With
+
+  - Html 
+  - CSS
+
+## Authors
+
+ ### Author1
+
+  - Name:Opeyemi Oyelesi
+  - Github: @AdedayoOpeyemi 
+  
+ ### Author2
+ 
+  - Name: Oloo Moses
+  - Github: @olooine
+
