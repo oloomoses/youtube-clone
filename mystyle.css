@@ -89,3 +89,18 @@ button {
 .logo {
     height:70px;
 } 
+
+/* this is main content style */
+
+container{
+    height: auto;
+    width: 100%;
+    display: flex;
+}
+main{   
+    width:66%;    
+}
+.vid{
+    width: 100%;
+    height:auto;
+}
