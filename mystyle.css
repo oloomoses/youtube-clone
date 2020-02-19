@@ -72,7 +72,7 @@ nav {
   
 }
 
-button {
+.signin button {
     float: right;
     position: relative;
     width: 100px;
@@ -98,9 +98,50 @@ container{
     display: flex;
 }
 main{   
-    width:66%;    
+    width:66%;  
+    display: flex;
+    flex-direction: column;  
 }
 .vid{
     width: 100%;
     height:auto;
+}
+.vid-title{
+    margin-top:10px;
+    display: flex;
+    background-color: #fff;
+    flex-direction: column;
+}
+.channel-details{
+    display:flex;
+    flex-direction: row;
+    align-items: center;    
+    height:100px;
+    width:100%;
+}
+.channel-name{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left:20px;
+}
+.channel-name h4{
+    margin:0;
+}
+.channel-name button{
+    height:40px;  
+    width:100px;
+    background-color: red;  
+    color: #fff;
+    border-radius: 10%;
+    margin-top:0;
+}
+.channel-img{
+    
+}
+.channel-views{    
+    margin: 0 0 0 auto;    
+}
+.img-title{
+
 }
