@@ -138,7 +138,10 @@ main{
 }
 .channel-name h4{
     margin:0;
-    height:50%
+    height:50%;
+    font-size: 20px;
+    margin-bottom: 0;
+    color: grey;
 }
 .channel-name button{
     height:50%;  
@@ -159,6 +162,13 @@ main{
     flex-direction:column;
     justify-content: flex-end;
 }
+
+.views p {
+    font-size: 28px;
+    color: grey;
+    padding: 0;
+    Margin: 0;
+}
 /*
 .channel-views .views {
     height: 25%;
@@ -166,6 +176,10 @@ main{
 
 .img-title{
     margin-left:20px;
+}
+.img-title h3 {
+    font-size: 28px;
+    margin-bottom: 2px;
 }
 
 
@@ -177,6 +191,7 @@ hr {
     display: flex;
     justify-content: space-between;
     margin: 0 20px 20px 20px;
+    color: grey;
 }
 
 .page-interact span {
