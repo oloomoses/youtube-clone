@@ -206,8 +206,7 @@ hr {
 
 aside {  
     margin:0 20px 0 20px;
-    padding:30px  0 0 30px; 
-    width:34%;
+    padding:30px 0 0 30px;    
     display: flex;
     flex-direction: column;  
     background-color: #fff; 
@@ -215,21 +214,17 @@ aside {
 
 .aside-header {
     display:flex;
-    justify-content:space-between;
-    margin: 0 20px 0 0;
+    justify-content:space-between;    
 }
 
 .autoplay {
     display: flex;
-    align-content:center;   
+    align-items: center;
+     
 }
-
-.autoplay div {
-    text-align:center;
-}
-
-.aside-header div {
-    align-content:center;
+.toggle-on{
+    margin-top:4px;
+    margin-left: 20px;
 }
 
 .aside-video img {
