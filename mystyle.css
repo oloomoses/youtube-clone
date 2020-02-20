@@ -49,6 +49,7 @@ nav {
     /*justify-content: center;*/
     align-items: center;
     display: flex;
+    color: grey;
    
 }
 .searchbox {
@@ -59,7 +60,7 @@ nav {
 }
 
 .searchicon {
-    border: solid 1px black;
+    border: solid 1px grey;
     background-color: lightgrey;
     border-radius: 0 10% 10% 0;
     height: 40px;
@@ -202,6 +203,19 @@ hr {
 .page-interact div{
     display:flex;
     align-content: center;
+}
+
+.Video-description {
+    margin-top:10px;
+    margin-left: 20px;
+    background-color: white;
+    padding-left:20px;
+}
+.Video-description h3{
+    font-size: 24px;
+}
+.Video-description p {
+    font-size: 20px;
 }
 
 
