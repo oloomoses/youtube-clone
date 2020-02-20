@@ -211,3 +211,22 @@ aside{
 .aside-header div{
     align-content:center;
 }
+.aside-video img{
+    width:328px;
+    height:196px;
+}
+.aside-video{
+    display:flex;
+    align-items: flex-start;
+    padding:20px;
+}
+.aside-video .vid-description{
+    padding:0 0 0 20px;
+    margin-top: 0;
+}
+.vid-description b{
+    font-size: 20px;
+}
+.vid-description p{
+    color:grey
+}
