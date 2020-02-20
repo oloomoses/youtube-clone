@@ -2,56 +2,48 @@ body {
     padding: 0;
     margin: 0;
     background-color: #EDEDED;
-    width:viewport;
 }
 
-.topbar{
+.topbar {
     padding: 20px;
     margin: 10px;
-    /*display: block;*/
 }
-
 
 header {
     background-color: white;
     width: 100%;
-    height:75px;
-    
+    height:75px;   
 }
+
 nav {
     display: flex;
     align-items: center;
-    /*justify-content: center;*/
     height: 50px;
     width: 100%;
     position: fixed;
     padding: 14px 16px;
     padding-left: 40px;
-    /*vertical-align: baseline;*/
     background-color:white;
 }
 
 
 .material-icons.md-48 {
     font-size: 36px;
-
 }
 
-.menu{
+.menu {
     align-items: center;
     width: 20%;
-    display: flex;
-    
+    display: flex; 
 }
-.searchbar {
 
+.searchbar {
     width: 55%;
-    /*justify-content: center;*/
     align-items: center;
     display: flex;
     color: grey;
-   
 }
+
 .searchbox {
     height: 36px;
     width: 100%;
@@ -65,15 +57,13 @@ nav {
     border-radius: 0 10% 10% 0;
     height: 40px;
     width: 60px;
-
-
 }
+
 .signin {
     align-items: center;
     width: 30%;
     display: flex;
-    margin-left: 100px;
-    
+    margin-left: 100px; 
 }
 
 .signin .material-icons {
@@ -98,53 +88,53 @@ nav {
     height:70px;
 } 
 
-/* this is main content style */
-
-.container{
+.container {
     height: auto;
     width: 100%;
     display: flex; 
-   
 }
-main{   
+
+main {   
     width:66%;  
     display: flex;
     flex-direction: column;  
 }
-.vid{
+.vid {
     width: 100%;
     height:auto;
 }
-.vid-title{
+
+.vid-title {
     margin-top:10px;
     margin-left: 20px;
     display: flex;
     background-color: #fff;
     flex-direction: column;
 }
-.channel-details{
+.channel-details {
     display:flex;
     margin-left: 20px;
     flex-direction: row;
-   /* align-items: center; */   
-    /*height:auto;*/
     width:100%;
 }
-.channel-name{
+
+.channel-name {
     display:flex;
     flex-direction: column;
     justify-content: center;
     margin-left:20px;
     margin-bottom:4px;
 }
-.channel-name h4{
+
+.channel-name h4 {
     margin:0;
     height:50%;
     font-size: 20px;
     margin-bottom: 0;
     color: grey;
 }
-.channel-name button{
+
+.channel-name button {
     height:50%;  
     width:100px;
     background-color: red;  
@@ -152,11 +142,8 @@ main{
     border-radius: 10%;
     margin-top:0;
 }
-/*.channel-img{
-    
-}*/
-.channel-views{    
-    /*margin: 0 40px 0 auto;*/
+
+.channel-views {    
     margin-right: 40px;
     margin-left: auto;
     display: flex;
@@ -170,14 +157,11 @@ main{
     padding: 0;
     Margin: 0;
 }
-/*
-.channel-views .views {
-    height: 25%;
-} */
 
-.img-title{
+.img-title {
     margin-left:20px;
 }
+
 .img-title h3 {
     font-size: 28px;
     margin-bottom: 2px;
@@ -200,7 +184,7 @@ hr {
     padding-left: 10px;
 }
 
-.page-interact div{
+.page-interact div {
     display:flex;
     align-content: center;
 }
@@ -211,16 +195,16 @@ hr {
     background-color: white;
     padding-left:20px;
 }
-.Video-description h3{
+
+.Video-description h3 {
     font-size: 24px;
 }
+
 .Video-description p {
     font-size: 20px;
 }
 
-
-/* aside  */
-aside{  
+aside {  
     margin:0 20px 0 20px;
     padding:30px  0 0 30px; 
     width:34%;
@@ -228,39 +212,46 @@ aside{
     flex-direction: column;  
     background-color: #fff; 
 }
-.aside-header{
+
+.aside-header {
     display:flex;
     justify-content:space-between;
     margin: 0 20px 0 0;
+}
 
-}
-.autoplay{
+.autoplay {
     display: flex;
-    align-content:center;
-    
+    align-content:center;   
 }
-.autoplay div{
+
+.autoplay div {
     text-align:center;
 }
-.aside-header div{
+
+.aside-header div {
     align-content:center;
 }
-.aside-video img{
+
+.aside-video img {
     width:328px;
     height:196px;
 }
-.aside-video{
+
+.aside-video {
     display:flex;
     align-items: flex-start;
     padding:20px;
 }
-.aside-video .vid-description{
+
+.aside-video .vid-description {
     padding:0 0 0 20px;
     margin-top: 0;
 }
-.vid-description b{
+
+.vid-description b {
     font-size: 20px;
 }
-.vid-description p{
+
+.vid-description p {
     color:grey
 }
