@@ -100,6 +100,10 @@ main {
     width: 100%;
     height:auto;
 }
+iframe{
+    height:720px;
+    width:100%;
+}
 
 .vid-title {
     margin-top:10px;
