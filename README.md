@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a youtube clone project done by Oloo and Opeyemi.
+This project is to create a clone of youtube video player page
 
 
 ## Local copy

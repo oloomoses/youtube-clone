@@ -51,11 +51,8 @@ nav {
     padding-left: 8px;
 }
 
-.searchicon {
-    border: solid 1px grey;
-    background-color: lightgrey;
-    border-radius: 0 10% 10% 0;
-    height: 40px;
+.searchbar button {  
+    height: 43px;
     width: 60px;
 }
 
@@ -187,6 +184,12 @@ hr {
 .page-interact div {
     display:flex;
     align-content: center;
+}
+.page-interact div button{
+    display: flex;
+    align-items: flex-start;
+    
+    /* text-align: center; */
 }
 
 .Video-description {
