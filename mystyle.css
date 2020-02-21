@@ -189,11 +189,9 @@ hr {
     display:flex;
     align-content: center;
 }
-.page-interact div button{
+.page-interact div button {
     display: flex;
-    align-items: flex-start;
-    
-    /* text-align: center; */
+    align-items: center;
 }
 
 .Video-description {
