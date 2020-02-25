@@ -15,6 +15,9 @@ This project is to create a clone of youtube video player page
 
   - Html 
   - CSS
+  
+## Live Version
+Url: [Youtube clone project](https://oloomoses.github.io/youtube-clone/)
 
 ## Authors
 
